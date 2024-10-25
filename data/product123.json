@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "Christian Dior Miss Dior Cherie L'eau EDT",
+    "category": "NOP",
+    "imageUrl": "https://image.makewebcdn.com/makeweb/m_1920x0/2q1fSqVKm/1product/0260.jpg?v=202405291424",
+    "oldPrice": "1290",
+    "price": "1280"
+  },
+  {
+    "id": 1,
+    "name": "Roses De Chloe EDT",
+    "category": "Men",
+    "oldPrice": "3850",
+    "imageUrl": "https://files.vogue.co.th/uploads/2_Chloe_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "2999"
+  },
+  {
+    "id": 2,
+    "name": "Wood Sage & Sea Salt Cologne",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/3_Jo_Malone_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3950",
+    "price": "3500"
+  },
+  {
+    "id": 3,
+    "name": "Coco Mademoiselle",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/4_Chanel_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3750",
+    "price": "3150"
+  },
+  {
+    "id": 4,
+    "name": "Flower By Kenzo Eau De Parfum",
+    "category": "men",
+    "imageUrl": "https://files.vogue.co.th/uploads/5_Kenzo_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3600",
+    "price": "3300"
+  },
+  {
+    "id": 5,
+    "name": "Daisy Eau So Fresh EDT",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/6_Marc_Jacobs_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "4000",
+    "price": "3999"
+  },
+  {
+    "id": 6,
+    "name": "Brit Sheer For Her Eau De Toilette",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/7_Burberry_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3300",
+    "price": "2888"
+  },
+  {
+    "id": 7,
+    "name": "Bright Crystal Eau De Toilette",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/8_Vesace_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "4200",
+    "price": "3999"
+  },
+  {
+    "id": 8,
+    "name": "Omnia Amethyste Eau De Toilette",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/9_BVLGARI_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3350",
+    "price": "2999"
+  },
+  {
+    "id": 9,
+    "name": "Bombshell Eau De Toilette",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/10_Victoria_s_Secret_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "3950",
+    "price": "3800"
+  },
+    {
+    "id": 10,
+    "name": "Miss Dior Blooming Bouquet",
+    "category": "Men",
+    "imageUrl": "https://files.vogue.co.th/uploads/1_Dior_-_The_10_Best_Perfume_for_Women.jpg",
+    "oldPrice": "2400",
+    "price": "2000"
+  }
+]
